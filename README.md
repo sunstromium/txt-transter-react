@@ -16,14 +16,12 @@ HOW TO RUN THE CODE:
 
 6. next cd your react folder path.[cd://bla bla bla]
 
-7. next type these commands:
+7.copy the package.json i provided to u r package.json 
 
-   npm i @testing-library/jest-dom
+8. next type these commands:
 
-   npm i @testing-library/react
-
-   npm i @testing-library/user-event
-
+   npm i
+   
    that's all simple ain't it NO APIS OR DB'S REQUIRED IMPLEMENTED FROM A LOCAL db.js file as the refference.
 
    OUTPUTS:
