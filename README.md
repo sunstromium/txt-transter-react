@@ -16,7 +16,10 @@ HOW TO RUN THE CODE:
 
 6. next cd your react folder path.[cd://bla bla bla]
 
-7.copy the package.json i provided to u r package.json 
+7.copy the package.json i provided to u r package.json [ ONLY AT DEPENDENCIES]
+
+![image](https://github.com/sunstromium/txt-transter-react/assets/118994059/e0116a88-3d67-4710-9661-e64e60257017)
+
 
 8. next type these commands:
 
