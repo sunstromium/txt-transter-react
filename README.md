@@ -24,7 +24,7 @@ HOW TO RUN THE CODE:
 
    npm i @testing-library/user-event
 
-   that's all simple ain't it SO APIS OR DB'S REQUIRED IMPLEMENTED FROM A LOCAL db.js file as the refference.
+   that's all simple ain't it NO APIS OR DB'S REQUIRED IMPLEMENTED FROM A LOCAL db.js file as the refference.
 
    OUTPUTS:
 
