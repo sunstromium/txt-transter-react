@@ -1,4 +1,3 @@
-# txt-transter-react
 sample text translater app using react
 # hello  everyone what's this repo about?
 WELL IT IS SMALL SNIPPET INSPIRED FROM GOOGLE TRANSLATER 
